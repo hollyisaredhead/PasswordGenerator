@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+.card{
+    overflow: auto;
+
+}
+.card{
+    padding: 20px;
+}
+#password{ 
+    width: 80%;
+    height: 150px;
+}
+#generate{
+    color: white;
+    background-color: red;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+#copy{
+    background-color: grey;
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+}
